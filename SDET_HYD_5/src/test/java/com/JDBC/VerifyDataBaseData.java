@@ -6,6 +6,6 @@ package com.JDBC;
  */
 public class VerifyDataBaseData {
 	
-	//xpath=element2 //Test Engineer 1
+	//xpath=element1 //Test Engineer 1
 
 }
